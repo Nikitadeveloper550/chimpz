@@ -314,6 +314,12 @@ li a {
     color: #fff;
 }
 
+
+.bottom-shadow{
+    width: 50px;
+    
+}
+
 @media (max-width:576.98px) {
     .top-left {
         max-width: 230px;
